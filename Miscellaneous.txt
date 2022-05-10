@@ -1,0 +1,2 @@
+External IP address 35.225.59.38
+Port number: 5000
